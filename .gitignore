@@ -1,0 +1,15 @@
+*.ncrunchsolution
+*.user
+*.cache
+
+_ReSharper.Caches
+.vs
+
+Mastermind/bin
+Mastermind/obj
+
+Zed3/bin
+Zed3/obj
+
+Zed3.Tests/bin
+Zed3.Tests/obj
